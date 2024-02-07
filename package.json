@@ -3,6 +3,7 @@
     "version": "1.0.0",
     "description": "A Phaser 3 parallax demo write in TypeScript template using Vite.",
     "main": "dist/index.js",
+    "repository": "github:anthian/phaser3-vite-parallax",
     "scripts": {
         "start": "vite --config vite/config.dev.js",
         "build": "vite build --config vite/config.prod.js",
