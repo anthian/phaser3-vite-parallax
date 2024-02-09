@@ -1,6 +1,6 @@
 # Phaser Vite TypeScript Parallax Example
 
-This is a Phaser 3 project Parallax example that uses Vite for bundling. It supports hot-reloading for quick development workflow, includes TypeScript support and scripts to generate production-ready builds.
+This is a Phaser 3 project Parallax example that uses Vite for bundling. It supports hot-reloading for quick development workflow, includes TypeScript support and scripts to generate production-ready builds. Actually is a mix of the [ourcade/phaser3-winter-parallax](https://github.com/ourcade/phaser3-winter-parallax) project using the [phaserjs/template-vite-js](https://github.com/phaserjs/template-vite-ts) template. 
 
 ### Versions
 
@@ -80,10 +80,9 @@ In order to deploy your game, you will need to upload *all* of the contents of t
 
 ### Vite
 
-If you want to customize your build, such as adding plugin (i.e. for loading CSS or fonts), you can modify the `vite/config.*.js` file for cross-project changes, or you can modify and/or create new configuration files and target them in specific npm tasks inside of `package.json`. Please see the [Vite documentation](https://vitejs.dev/) for more information.
+If you want to customize your build, such as adding plugin (i.e. for loading CSS or fonts), you can modify the `vite/config.*.mjs` file for cross-project changes, or you can modify and/or create new configuration files and target them in specific npm tasks inside of `package.json`. Please see the [Vite documentation](https://vitejs.dev/) for more information.
 
 ## Disclaimer
 
 The Phaser logo and characters are &copy; 2011 - 2024 Phaser Studio Inc.
-
 All rights reserved.
