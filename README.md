@@ -1,5 +1,8 @@
 # Phaser Vite TypeScript Parallax Example
 
+[![GitHub](https://img.shields.io/github/license/anthian/phaser3-vite-parallax)](/LICENSE)
+[![ESLint](https://github.com/anthian/phaser3-vite-parallax/actions/workflows/eslint.yml/badge.svg?branch=main)](https://github.com/anthian/phaser3-vite-parallax/actions/workflows/eslint.yml)
+
 This is a Phaser 3 project Parallax example that uses Vite for bundling. It supports hot-reloading for quick development workflow, includes TypeScript support and scripts to generate production-ready builds.
 
 ### Versions
